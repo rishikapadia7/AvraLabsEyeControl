@@ -17,3 +17,15 @@ Getting started wiki page: [https://github.com/rishikapadia7/AvraLabsEyeControl/
 
 # License
 Project is licensed under the Apache License version 2.0.
+
+# Credits
+The Avra Labs Eye Control project is a combination of 2 major items: 1) Mouse Replacement 2) Keyboard replacement
+
+The project was conceptualized in June 2017 by Michael Lai who was completing Computer Engineering at the University of Waterloo in Canada. After trying existing eye-tracking technologies and dissatisfied with the user experience, Michael saw the potential of improving the lives of individuals with arm difficulties. To help complete and execute his vision, Michael brought on Rishi Kapadia.
+
+We would like to thank the following in making this project successful:
+1. Tobii - for creating the affordable Tobii 4C
+2. Julius Sweetland and the Optikey team - for creating a comprehensive keyboard replacement
+3. Nash8350 and PrecisionGazeMouse - provided foundational code for working with the Tobii SDK. This project continues to use the PrecisionGazeMouse namespace/filenames, as well as Apache License.
+4. perevoznyk on github - for creating karna-magnification which powers the zooming mechanism
+5. All other open source projects that this project references and uses
