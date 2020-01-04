@@ -352,7 +352,10 @@
   <Import Project="..\packages\Tobii.EyeX.Client.1.8.503\build\Tobii.EyeX.Client.targets" Condition="Exists('..\packages\Tobii.EyeX.Client.1.8.503\build\Tobii.EyeX.Client.targets')" />
   <PropertyGroup>
     <PostBuildEvent>xcopy /y /d  "$(ProjectDir)*.dll" "$(ProjectDir)$(OutDir)"
-xcopy /y /d /e /s /i "$(ProjectDir)cursors\*.cur" "$(ProjectDir)$(OutDir)cursors"</PostBuildEvent>
+xcopy /y /d  "$(SolutionDir)*.txt" "$(ProjectDir)$(OutDir)"
+xcopy /y /d  "$(SolutionDir)*.pdf" "$(ProjectDir)$(OutDir)"
+xcopy /y /d /e /s /i "$(ProjectDir)cursors\*.cur" "$(ProjectDir)$(OutDir)cursors"
+xcopy /y /d  "$(SolutionDir)*.cmd" "$(ProjectDir)$(OutDir)..\"</PostBuildEvent>
   </PropertyGroup>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
