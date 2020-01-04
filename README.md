@@ -11,7 +11,7 @@ Noteworthy enhancements tested to be more intuitive and productive compared to o
 * Hidden cursor and thus the screen doesn't hover/light-up everywhere you look
 
 # Getting Started
-The software can be downloaded from Releases here on Github: TODO.
+The software can be downloaded from Releases here on Github: [https://github.com/rishikapadia7/AvraLabsEyeControl/releases](https://github.com/rishikapadia7/AvraLabsEyeControl/releases)
 
 Getting started wiki page: [https://github.com/rishikapadia7/AvraLabsEyeControl/wiki/Getting-Started-Usage-Guide](https://github.com/rishikapadia7/AvraLabsEyeControl/wiki/Getting-Started-Usage-Guide)
 
@@ -29,3 +29,6 @@ We would like to thank the following in making this project successful:
 3. Nash8350 and PrecisionGazeMouse - provided foundational code for working with the Tobii SDK. This project continues to use the PrecisionGazeMouse namespace/filenames, as well as Apache License.
 4. perevoznyk on github - for creating karna-magnification which powers the zooming mechanism
 5. All other open source projects that this project references and uses
+
+# Contact
+If you have questions on integrations, modifications, my learnings through the project or anything else - feel free to send me an email at rishi@avralabs.com
