@@ -105,7 +105,7 @@
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(192, 32);
             this.label4.TabIndex = 52;
-            this.label4.Text = "Rishi Kapadia";
+            this.label4.Text = "github.com/rishikapadia7";
             // 
             // label5
             // 
@@ -115,7 +115,7 @@
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(265, 32);
             this.label5.TabIndex = 53;
-            this.label5.Text = "rishi@avralabs.com";
+            this.label5.Text = "AvraLabsEyeControl";
             // 
             // label6
             // 
